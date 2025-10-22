@@ -1,0 +1,302 @@
+{
+  "Questions": [
+    {
+      "ID": 1,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "In Town",
+      "Question": "Which of these restaurants are part of Göteborgsfamiljen’s restaurant empire?",
+      "Answer1": "Skanshof, Yaki-da, and Made in China",
+      "Answer2": "Mercado Mexico, Project, and Koka",
+      "Answer3": "Boqueria, Puta Madre, and Botánico",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 2,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "High, Higher, The Highest",
+      "Question": "In which month do Chalmers students try to make Gothenburgers smile with their creative vehicles in the Chalmers Cortège?",
+      "Answer1": "April",
+      "Answer2": "May",
+      "Answer3": "June",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 3,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "High, Higher, The Highest",
+      "Question": "The TV and radio mast Brudaremossen, visible from many parts of Gothenburg, is 1 meter taller than the Eiffel Tower. How tall is it?",
+      "Answer1": "191 m",
+      "Answer2": "221 m",
+      "Answer3": "331 m",
+      "CorrectAnswer": "Answer3"
+    },
+    {
+      "ID": 4,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "High, Higher, The Highest",
+      "Question": "Otterhällan from the 1920s is said to be Gothenburg’s first skyscraper, 17 stories high! How tall is it?",
+      "Answer1": "33 m",
+      "Answer2": "66 m",
+      "Answer3": "98 m",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 5,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "High, Higher, The Highest",
+      "Question": "If you take a boat north on the Göta River, you pass under the mighty Angered Bridge. What is its clearance height?",
+      "Answer1": "30 m",
+      "Answer2": "50 m",
+      "Answer3": "70 m",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 6,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Heavy weight",
+      "Question": "At the restaurant Tavolo there’s a stone horse head, a copy of Leonardo da Vinci’s “Cavallo di Forcione.” How much does it weigh?",
+      "Answer1": "1,500 kg",
+      "Answer2": "3,400 kg",
+      "Answer3": "6,800 kg",
+      "CorrectAnswer": "Answer3"
+    },
+    {
+      "ID": 7,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "On the track through the city",
+      "Question": "When did Gothenburg’s trams debut?",
+      "Answer1": "1879",
+      "Answer2": "1888",
+      "Answer3": "1899",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 8,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Good stuff",
+      "Question": "How many Gothenburg restaurants received a Michelin star in 2022?",
+      "Answer1": "3",
+      "Answer2": "5",
+      "Answer3": "7",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 9,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Good stuff",
+      "Question": "One of Sweden’s oldest registered trademarks still in use started in Gothenburg in the 1800s. Which one?",
+      "Answer1": "Friggs",
+      "Answer2": "Göteborgs Kex",
+      "Answer3": "Carnegie Porter",
+      "CorrectAnswer": "Answer3"
+    },
+    {
+      "ID": 10,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Good stuff",
+      "Question": "Which ice cream brand started in Gothenburg in the 1940s?",
+      "Answer1": "Triumf Glass",
+      "Answer2": "Kling Glass",
+      "Answer3": "Lejonet & Björnen",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 11,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Old, Elder, The Eldest",
+      "Question": "About 12,000 years ago, the first people came to the Gothenburg area to hunt seals. Where is Trollåsen, the city’s oldest known settlement?",
+      "Answer1": "Torslanda",
+      "Answer2": "Askim",
+      "Answer3": "Hönö",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 12,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Old, Elder, The Eldest",
+      "Question": "When did Volvo start selling its first car model?",
+      "Answer1": "1919",
+      "Answer2": "1927",
+      "Answer3": "1936",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 13,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Vocabulary",
+      "Question": "What does the Gothenburg slang word “bala” mean?",
+      "Answer1": "Hälla i sig",
+      "Answer2": "Bada naken",
+      "Answer3": "Fruktstund",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 14,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "How many?",
+      "Question": "About how many people lived in Gothenburg in 1700?",
+      "Answer1": "2,000",
+      "Answer2": "6,000",
+      "Answer3": "10,000",
+      "CorrectAnswer": "Answer3"
+
+    },
+    {
+      "ID": 15,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Wet, Wetter, The Wetest",
+      "Question": "Which month has, on average, the most rainfall in Gothenburg?",
+      "Answer1": "October",
+      "Answer2": "November",
+      "Answer3": "January",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 16,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Wet, Wetter, The Wetest",
+      "Question": "When you ride Kållerado at Liseberg, you’re guaranteed to get wet! How much water does the attraction contain?",
+      "Answer1": "3 million liters",
+      "Answer2": "10 million liters",
+      "Answer3": "25 million liters",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 17,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Wet, Wetter, The Wetest",
+      "Question": "When did the Valhalla swimming hall open?",
+      "Answer1": "1939",
+      "Answer2": "1956",
+      "Answer3": "1971",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 18,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Years do you remember?",
+      "Question": "When did Gothenburgers start shopping at Nordstan?",
+      "Answer1": "1966",
+      "Answer2": "1972",
+      "Answer3": "1979",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 19,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Years do you remember?",
+      "Question": "Every September, book lovers make a pilgrimage to Gothenburg! When was the Gothenburg Book Fair first held?",
+      "Answer1": "1975",
+      "Answer2": "1980",
+      "Answer3": "1985",
+      "CorrectAnswer": "Answer3"
+    },
+    {
+      "ID": 20,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Long, Longer, The Longest",
+      "Question": "Which of the Långgatorna (Long Streets) is the longest?",
+      "Answer1": "Första Långgatan",
+      "Answer2": "Andra Långgatan",
+      "Answer3": "Tredje Långgatan",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 21,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Long, Longer, The Longest",
+      "Question": "About how long is the Chalmers tunnel (from Södra Vägen under Carlanderska to Aschebergsgatan)?",
+      "Answer1": "400 m",
+      "Answer2": "1,000 m",
+      "Answer3": "1,800 m",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 22,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Sporty",
+      "Question": "When did Gothia Cup, the world’s largest youth football tournament, start?",
+      "Answer1": "1969",
+      "Answer2": "1975",
+      "Answer3": "1982",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 23,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Where somewhere?",
+      "Question": "Where was the Gothenburg Porcelain Factory (founded in 1898) located?",
+      "Answer1": "Hisingen",
+      "Answer2": "Krokslätt",
+      "Answer3": "Majorna",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 24,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Where somewhere?",
+      "Question": "Where is Göteborgs Kex produced today after the Kungälv factory closed?",
+      "Answer1": "Estonia",
+      "Answer2": "Latvia",
+      "Answer3": "Lithuania",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 25,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Big, Bigger, The Biggest",
+      "Question": "Which area had the most residents in 2021 (after Centrum)?",
+      "Answer1": "Nordost (Angered and Östra Göteborg)",
+      "Answer2": "Hisingen (Lundby, Norra and Västra Hisingen)",
+      "Answer3": "Sydväst (Askim-Frölunda-Högsbo and Västra Göteborg)",
+      "CorrectAnswer": "Answer2"
+    },
+    {
+      "ID": 26,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Big, Bigger, The Biggest",
+      "Question": "Which is the largest company in the Gothenburg region by number of employees (2021)?",
+      "Answer1": "Volvo Cars",
+      "Answer2": "AstraZeneca",
+      "Answer3": "Ericsson",
+      "CorrectAnswer": "Answer1"
+    },
+    {
+      "ID": 27,
+      "CreatedDate": "2025-10-22 14:35:27",
+      "EditedDate": "",
+      "Category": "Big, Bigger, The Biggest",
+      "Question": "How many municipalities make up the Greater Gothenburg area?",
+      "Answer1": "7",
+      "Answer2": "13",
+      "Answer3": "21",
+      "CorrectAnswer": "Answer2"
+    }
+  ]
+}
