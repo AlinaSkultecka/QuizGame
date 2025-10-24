@@ -5,84 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:QuizGame"
         mc:Ignorable="d"
-        Title="MainWindow" Height="640" Width="360" Background="LightBlue" HorizontalAlignment="Center" VerticalAlignment="Center">
-
-    <Border Margin="15,60,15,15" CornerRadius="10" Background="White">
-        <Grid x:Name="MainColorBlock">
-
-            <!--Rows for quiz sections-->
-            <Grid.RowDefinitions>
-                <RowDefinition Height="40"/>
-                <RowDefinition Height="170"/>
-                <RowDefinition Height="100"/>
-                <RowDefinition Height="60"/>
-                <RowDefinition Height="60"/>
-                <RowDefinition Height="60"/>
-                <RowDefinition Height="Auto"/>
-            </Grid.RowDefinitions>
-
-            <!-- Menu line -->
-            <Rectangle x:Name="MenuScoreLine" Margin="-15,-60,-15,60" Fill="White" RenderTransformOrigin="0.494,0.525" Grid.ColumnSpan="3"/>
-            <Button Content="Return to Menu" Margin="238,-47,-3,0" VerticalAlignment="Top" Background="White" BorderThickness="0" FontWeight="Bold" FocusVisualStyle="{x:Null}" Click="Button_Click"/>
-            <Border Margin="1,-48,288,0" VerticalAlignment="Top" Height="20" CornerRadius="10" Background="LightGray">
-                <TextBlock Text="Points" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center" FontWeight="Bold"/>
-            </Border>
-
-            <!-- Heading Question Number row-->
-            <Grid Grid.Row="0" Margin="5,15,5,5">
-                <TextBox TextWrapping="Wrap" Text="Question Number" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center" BorderThickness="0" />
-            </Grid>
-
-            <!-- Picture row -->
-            <Grid Grid.Row="1" Margin="10">
-            </Grid>
-
-            <!-- Question row -->
-            <Grid Grid.Row="2" Margin="20,10,20,8">
-                <TextBox TextWrapping="Wrap" Text="Question" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center" BorderThickness="0" />
-            </Grid>
-
-            <!-- Answer 1 row -->
-            <Grid Grid.Row="3" Margin="20,8,20,8">
-                <Button Content="Answer 1">
-                    <Button.Template>
-                        <ControlTemplate TargetType="Button">
-                            <Border CornerRadius="5" Background="{TemplateBinding Background}">
-                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
-            </Grid>
-
-            <!-- Answer 2 row -->
-            <Grid Grid.Row="4" Margin="20,8,20,8">
-                <Button Content="Answer 2">
-                    <Button.Template>
-                        <ControlTemplate TargetType="Button">
-                            <Border CornerRadius="5" Background="{TemplateBinding Background}">
-                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
-            </Grid>
-
-            <!-- Answer 3 row -->
-            <Grid Grid.Row="5" Margin="20,8,20,8">
-                <Button Content="Answer 3">
-                    <Button.Template>
-                        <ControlTemplate TargetType="Button">
-                            <Border CornerRadius="5" Background="{TemplateBinding Background}">
-                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
-            </Grid>
-
-
-        </Grid>
-    </Border>
-
+        Title="MainWindow" Height="640" Width="360">
+    <Grid>
+        <local:PlayQuizView x:Name="QuizView"/>
+    </Grid>
 </Window>

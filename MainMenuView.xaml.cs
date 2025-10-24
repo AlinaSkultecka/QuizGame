@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace QuizGame
 {
     /// <summary>
-    /// Interaction logic for MenuConsole.xaml
+    /// Interaction logic for UserControl1.xaml
     /// </summary>
-    public partial class MenuConsole : Window
+    public partial class UserControl1 : UserControl
     {
-        public MenuConsole()
+        public UserControl1()
         {
             InitializeComponent();
         }

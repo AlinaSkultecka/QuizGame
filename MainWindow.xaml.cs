@@ -19,6 +19,10 @@ namespace QuizGame
         public MainWindow()
         {
             InitializeComponent();
+            
+            // Access the UserControl if needed
+            var viewModel = QuizView.ViewModel;
+            // viewModel.LoadQuestions(...) etc.
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
